@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMapTestYapp</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

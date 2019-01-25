@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">MyMapTestYapp</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_inicio">inicio</string>
+    <string name="settings">Menu</string>
+
+    <string name="op1">Mapa</string>
+    <string name="op2">Recorrido</string>
+    <string name="op3">Contenido JSON</string>
+
 </resources>
